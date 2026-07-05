@@ -37,8 +37,6 @@ body {
   color: #ffb6c1; /* สีชมพูอ่อน */
   text-shadow: 
     0 0 10px #ffb6c1,
-    0 0 20px #f8bbd0,
-    0 0 30px #f8bbd0;
   letter-spacing: 3px;
   margin: 0;
 }
